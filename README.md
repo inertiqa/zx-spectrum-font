@@ -9,5 +9,3 @@ the classic ZX Spectrum 48k rom font pixel-perfect converted to modern formats
 you'll also find [the .svg files for every character](https://github.com/necronomimicon/zxSpectrum-font/tree/master/vectorGlyphs) and the [bitfontmaker2 sourceCode](https://github.com/necronomimicon/zxSpectrum-font/blob/master/bitFontMaker2Source.txt) used to [generate the font](https://www.pentacom.jp/pentacom/bitfontmaker2/) 
 
 **BONUS** the 'condensed' folder contains a version that was quite famous back in the day, where characters are just 3 pixels width, allowing 64 characters per line on your 4:3 TV Screen
-
-###### made by [Necronomimicon](https://github.com/necronomimicon/)
